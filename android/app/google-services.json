@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852719606717",
+    "firebase_url": "https://flutter-lunch.firebaseio.com",
+    "project_id": "flutter-lunch",
+    "storage_bucket": "flutter-lunch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852719606717:android:10401838aa74d2e67c10d4",
+        "android_client_info": {
+          "package_name": "com.chykerfoods.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852719606717-lir4vji5q5fmn37l1opi7ift2sjilp2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chykerfoods.food_delivery",
+            "certificate_hash": "f74167e2e5ec083060fcb37d8f23a09cfdc738d0"
+          }
+        },
+        {
+          "client_id": "852719606717-lvogmmd7kaadtuket697d8uh152v8v12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJAbBt7C7_2VgPBFSLET-1mfpYeawLBpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852719606717-lvogmmd7kaadtuket697d8uh152v8v12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
